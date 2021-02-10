@@ -13,6 +13,6 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="cipher_settings_title">Cipher Hub</string>
-    <string name="cipher_dashboard_summary">Lets make it better !</string>
+    <string name="cipher_settings_title">Cipher Cave</string>
+    <string name="cipher_dashboard_summary">Hunt for Looks !</string>
 </resources>
